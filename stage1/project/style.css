@@ -1,0 +1,40 @@
+
+.image img {
+  position: absolute;
+     top: 56%;
+     left: 50%;
+     width: 650px;
+     height: 500px;
+     margin-top: -250px; /* Half the height */
+     margin-left: -325px; /* Half the width */
+}
+
+h1 {
+    font-size: 40px;
+    background-color: #f33;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+    background-color: #0c4;
+    margin-top: 550px;
+    color: white;
+}
+
+.headings {
+    font-size: 25px;
+    font-weight: bold;
+    color: #00802b;
+}
+
+em {
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: bold;
+  text-align: center;
+  color: red
+
+}
